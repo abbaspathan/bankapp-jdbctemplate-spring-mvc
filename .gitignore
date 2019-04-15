@@ -1,0 +1,7 @@
+.settings
+build
+.classpath
+.project
+.springBeans
+lib
+META-INF
